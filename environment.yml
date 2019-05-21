@@ -1,0 +1,35 @@
+name: statviz
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2019.1.23=0
+  - certifi=2019.3.9=py37_0
+  - openssl=1.1.1b=he774522_1
+  - pip=19.1.1=py37_0
+  - python=3.7.3=h8c8aaf0_1
+  - setuptools=41.0.1=py37_0
+  - sqlite=3.28.0=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_4
+  - wheel=0.33.4=py37_0
+  - wincertstore=0.2=py37_0
+  - pip:
+    - arrow==0.13.2
+    - binaryornot==0.4.4
+    - chardet==3.0.4
+    - click==7.0
+    - cookiecutter==1.6.0
+    - future==0.17.1
+    - idna==2.8
+    - jinja2==2.10.1
+    - jinja2-time==0.2.0
+    - markupsafe==1.1.1
+    - poyo==0.4.2
+    - pyscaffold==3.1
+    - python-dateutil==2.8.0
+    - requests==2.22.0
+    - six==1.12.0
+    - urllib3==1.25.2
+    - whichcraft==0.5.2
+prefix: C:\Users\richard\.conda\envs\statviz
+
