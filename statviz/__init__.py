@@ -8,4 +8,4 @@ __version__ = 'unknown'
 
 from .permutationTest import PermutationTest
 from .ecdf import ECDF
-
+from .polyfitStats import PolyfitStats
